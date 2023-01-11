@@ -1,6 +1,6 @@
 # Twitch Data Script
 ## Description
-Twitch Data Script is an open source repository to put scripts to analyze and process twitch data from last leak 06/10/21
+Twitch Data Script is an open source repository to put scripts to analyze and process twitch data from leak of 06/10/21
 
 ## Usage
 To get revenue printed on terminal by the numeric twitch user id:
