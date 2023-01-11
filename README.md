@@ -23,5 +23,5 @@ To get revenue printed on csv file by the twitch user name:
 Luca Gasperini - Mantainer and programmer
 
 ## License
-This open source project is licensed as GNU General Public License 2
+This open source project is licensed as GNU General Public License 3
 
